@@ -1,0 +1,26 @@
+Part:A
+Name		Contact					Job		Relationship
+
+Tyler		tyler.nasadyk@gedu.sd73.bc.ca		N/A		Friend
+
+Josh		josh.nasadyk@gedu.sd73.bc.ca		N/A		Friend
+
+James		james.wallbank@gedu.sd73.bc.ca		N/A		Brother
+
+ATCTymer	atctimer@gmail.com			N/A		Friend
+
+Brad		brad.sayers@gedu.sd73.bc.ca		Photographer	Friend
+
+Part:B
+Questions:
+
+1.	What do you like about your job? I like taking Photos of things that interest me
+2.	What do you do as your job?	I am a photographer for my own personel interest
+3.	How much do you get paid?	I get payed around $3,500 per photo shoot
+4.	What is your favourite part of this job? I like the fact that people give me respect
+5.	What skills are required?	Well you will need to be able to use a camera thats around it
+6.	What type of responsibilities do you have? I have to be able to get to the site expecially when its  a wedding
+7.	Would you recommend this field of work? Yes i would as it is the best way to go and see things and places
+
+Part:C
+No this wouldn't be something i would be going into as i dont know how to work a camera.
